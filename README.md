@@ -1,4 +1,5 @@
-[![Github Action](https://github.com/leandrorisch/cypress-test/tree/main/.github/workflows/main.yml/badge.svg)](https://github.com/leandrorisch/cypress-test/tree/main/.github/workflows/main.yml)
+[![Main](https://img.shields.io/badge/main-branch-green)](https://github.com/leandrorisch/cypress-test/blob/main/.github/workflows/main.yml)
+[![Build Status](https://img.shields.io/travis/{seu-nome-de-usuario}/{seu-repositorio}?label=build&logo=travis)](https://github.com/leandrorisch/cypress-test/blob/main/.github/workflows/main.yml)
 
 Hello! My name is Leandro Risch and I am an experienced Quality Analyst with a passion for ensuring top-notch software quality since 2007. Over the years, I have honed my skills in various aspects of software testing including functional testing, regression testing, end-to-end testing, and usability testing.
 
