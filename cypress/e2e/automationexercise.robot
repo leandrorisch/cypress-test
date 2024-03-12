@@ -51,7 +51,8 @@ Verify that the sum of the product values is correct
     ${calculated_total} =    Sum    ${price1}    ${price2}
     Should Be Equal To    ${calculated_total}    ${total_price}
 
-  
+Close Browser 
+    Close Browser  
 
 
 
